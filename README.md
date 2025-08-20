@@ -1,6 +1,4 @@
-# Power-BI-Dashboard
 
-📄 README.md
 # Retail Sales Analytics & Dashboard (Mavi)
 
 A compact end-to-end analytics project that cleans raw retail data, engineers features, and produces both **Python EDA outputs** and a **Power BI dashboard**.
